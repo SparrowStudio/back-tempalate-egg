@@ -3,7 +3,7 @@
  * @author: bubao
  * @date: 2020-10-20 13:08:31
  * @last author: bubao
- * @last edit time: 2020-10-20 13:53:55
+ * @last edit time: 2020-10-20 20:34:37
 -->
 
 # back-tempalate-egg
@@ -57,7 +57,7 @@ see [egg docs][egg] for more detail.
 
 ```bash
 $ yarn
-$ rarn run dev
+$ yarn run dev
 $ open http://localhost:7001/
 ```
 
