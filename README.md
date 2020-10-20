@@ -57,7 +57,7 @@ see [egg docs][egg] for more detail.
 
 ```bash
 $ yarn
-$ rarn run dev
+$ yarn run dev
 $ open http://localhost:7001/
 ```
 
