@@ -6,7 +6,7 @@
  * @last edit time: 2020-10-20 20:34:37
 -->
 
-# back-tempalate-egg
+# back-template-egg
 
 Sparrow Studio 项目组后端项目开发模板，方便快速创建新项目。
 
@@ -24,7 +24,7 @@ Sparrow Studio 项目组后端项目开发模板，方便快速创建新项目�
 获取项目代码
 
 ```sh
-git clone https://gitee.com/sparrow-studio/back-tempalate-egg.git
+git clone https://gitee.com/sparrow-studio/back-template-egg.git
 ```
 
 查看远程地址
